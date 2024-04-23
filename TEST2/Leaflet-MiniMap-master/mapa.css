@@ -1,0 +1,17 @@
+#map {
+
+    height:80vh;
+    width: 95hw;
+
+
+}
+
+h1{
+color:#3bc9e2;
+font-family:'Times New Roman', Times, serif;
+text-align: center;
+}
+select{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
